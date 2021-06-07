@@ -1,0 +1,17 @@
+#text {
+    font-size: 15px;    
+    color: black;
+    text-align: center;
+}
+
+#node {
+    height: 100px;
+    aspect-ratio: 1;
+    border-style: solid;
+    border-color: rgb(160, 160, 160);
+    border-radius: 50%;
+    border-width: 1px;
+    display: inline-grid;
+    align-items: center;
+    margin: 50px;
+}
